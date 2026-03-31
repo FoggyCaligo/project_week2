@@ -1,0 +1,11 @@
+numpy
+pandas
+matplotlib
+seaborn
+Faker
+ydata-profiling
+tensorflow
+sqlalchemy
+scikit-learn
+kaggle
+kagglehub
