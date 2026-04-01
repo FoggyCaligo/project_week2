@@ -24,7 +24,7 @@
    streamlit run merged_submission_date_weather_only_improved.py
 
 필요 패키지 예시
-   pip install pandas numpy matplotlib seaborn scikit-learn ydata-profiling openpyxl streamlit
+   pip install pandas numpy matplotlib seaborn scikit-learn ydata-profiling openpyxl streamlit joblib
 ============================================================
 """
 

@@ -10,3 +10,5 @@ scikit-learn
 kaggle
 kagglehub
 xgboost
+joblib
+streamlit
