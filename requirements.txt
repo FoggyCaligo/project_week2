@@ -9,3 +9,4 @@ sqlalchemy
 scikit-learn
 kaggle
 kagglehub
+xgboost
