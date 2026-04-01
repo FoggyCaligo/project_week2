@@ -9,6 +9,8 @@ pip install pandas numpy matplotlib seaborn scikit-learn openpyxl streamlit jobl
 3. `streamlit run 신재용_머신러닝프로젝트.py`
 '''
 
+
+
 from __future__ import annotations
 
 import pickle
